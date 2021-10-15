@@ -1,0 +1,2 @@
+# jugador
+jugador favorito
